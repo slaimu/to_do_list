@@ -1,0 +1,28 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaimu/to_do_list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slaimu/to_do_list/issues"
+  },
+  "homepage": "https://github.com/slaimu/to_do_list#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-react-views": "^0.9.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  }
+}
